@@ -2,3 +2,5 @@
 *.test
 *.log
 *.cov
+.idea/*
+.idea
